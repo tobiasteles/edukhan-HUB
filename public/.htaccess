@@ -1,17 +1,5 @@
-# Habilita o mod_rewrite, se necessário
 RewriteEngine On
-
-# Define o diretório base
 RewriteBase /
-
-# Verifica se a solicitação é de um arquivo ou diretório real
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-
-# Redireciona para o index.php para rotas amigáveis
 RewriteRule ^(.*)$ index.php [L]
-
-# Força o servidor a permitir o uso do .htaccess
-<Directory /caminho/do/projeto>
-    AllowOverride All
-</Directory>
