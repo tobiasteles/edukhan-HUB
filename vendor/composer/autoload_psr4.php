@@ -14,6 +14,7 @@ return array(
     'App\\Repositories\\' => array($baseDir . '/App/Respositories'),
     'App\\Models\\' => array($baseDir . '/App/Models'),
     'App\\Interfaces\\' => array($baseDir . '/App/Interfaces'),
-    'App\\Controllers\\' => array($baseDir . '/App/Controlles'),
+    'App\\Controllers\\' => array($baseDir . '/App/Controllers'),
     'App\\Classes\\' => array($baseDir . '/App/Classes'),
+    'App\\' => array($baseDir . '/App'),
 );

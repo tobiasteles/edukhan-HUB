@@ -11,7 +11,7 @@ if (preg_match('/\.(?:png|jpg|jpeg|gif)$/', $_SERVER["REQUEST_URI"])) {
     
     require '../vendor/autoload.php';
     require '../App/Functions/functions_twig.php';
-    require 'bootstrap/bootstrap.php';
+    require '../public/bootstrap/bootstrap.php';
     
     
 }

@@ -37,6 +37,7 @@ class ComposerStaticInit3b990a3b161733a00017ceac743f1b7a
             'App\\Interfaces\\' => 15,
             'App\\Controllers\\' => 16,
             'App\\Classes\\' => 12,
+            'App\\' => 4,
         ),
     );
 
@@ -75,11 +76,15 @@ class ComposerStaticInit3b990a3b161733a00017ceac743f1b7a
         ),
         'App\\Controllers\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/App/Controlles',
+            0 => __DIR__ . '/../..' . '/App/Controllers',
         ),
         'App\\Classes\\' => 
         array (
             0 => __DIR__ . '/../..' . '/App/Classes',
+        ),
+        'App\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/App',
         ),
     );
 
