@@ -1,5 +1,6 @@
 <?php
 
+
 // Chamando controller
 
 $callController = new App\Controllers\Controller;
