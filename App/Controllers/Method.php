@@ -3,7 +3,7 @@
 namespace App\Controllers;
 
 use App\Classes\Uri;
-use App\Controllers\Site\ProdutoController;
+// use App\Controllers\Site\ProdutoController;
 
 class Method
 {

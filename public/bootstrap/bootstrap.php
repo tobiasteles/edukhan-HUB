@@ -1,6 +1,18 @@
 <?php
-$controller=new App\Controllers\Controller;
-$object=$controller->controller();
 
-$method = new App\Controllers\Method;
-dump($method->method($object));
+// Chamando controller
+
+$callController = new App\Controllers\Controller;
+$calledController = $callController->controller();
+
+
+$controller=new $calledController();
+
+// Chamando method
+
+$callMethod = new App\Controllers\Method;
+$method = $callMethod->method($controller);
+
+
+$controller->$method();
+
