@@ -26,6 +26,7 @@ class Controller
     }
     public function controller(){
         $controller=$this->getController();
+      
         foreach(self::FOLDER_CONTROLLER as $folderController){
             if (class_exists(self::NAMESPACE_CONTROLLER.$folderController.'\\'.$controller)) {
                 return self::NAMESPACE_CONTROLLER.$folderController.'\\'.$controller;
