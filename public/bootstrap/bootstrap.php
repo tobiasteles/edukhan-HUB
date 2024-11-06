@@ -1,6 +1,8 @@
 <?php
 
 use App\Classes\Template;
+use App\Classes\Parameters;
+
 
 $template = new Template;
 $twig = $template->init();
@@ -23,5 +25,11 @@ $callMethod = new App\Controllers\Method;
 $method = $callMethod->method($controller);
 
 
-$controller->$method();
 
+
+// Chamando Parameters
+
+$parameters=new Parameters();
+$parameter=$parameters->getParameterMethod($controller, $method);
+
+$controller->$method($parameter);
