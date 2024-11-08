@@ -1,0 +1,449 @@
+<!--INICIO PRODUTOS-->
+    <div class="corpo-categorias">
+        <h2 class="titulo">Prêmios em Destaque</h2>
+
+        <!--INICIO LINHA DO PRODUTO-->
+        <div class="linha">
+
+            <!--INICIO ITEM PRODUTO-->
+            <div class="col-4">
+                <a href="produtos/ver-produto1.html">
+                <img src="/assets/images/produtos/cx1-23f8bb26763d37debb16929899131687-1024-1024.png" alt="" srcset="">
+            </a>
+                <h4>Head Phone</h4>
+                <div class="classificacao">
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                </div>
+                <p>E$ 150000</p>
+            </div>
+            <!--FIM ITEM PRODUTO-->
+             <!--INICIO ITEM PRODUTO-->
+             <div class="col-4">
+                <a href="produtos/ver-produto2.html">
+                <img src="/assets/images/produtos/popit.jpeg" alt="" srcset=""></a>
+                <h4>POP IT</h4>
+                <div class="classificacao">
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                </div>
+                <p>E$ 100000</p>
+            </div>
+            <!--FIM ITEM PRODUTO-->
+            <!--INICIO ITEM PRODUTO-->
+            <div class="col-4">
+                <a href="produtos/ver-produto3.html">
+                <img src="/assets/images/produtos/fone.jpeg" alt="" srcset=""></a>
+                <h4>Fone de Ouvido</h4>
+                <div class="classificacao">
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                </div>
+                <p>E$ 70000</p>
+            </div>
+            <!--FIM ITEM PRODUTO-->
+             <!--INICIO ITEM PRODUTO-->
+             <div class="col-4">
+                <a href="produtos/ver-produto4.html">
+                <img src="/assets/images/produtos/pulaPirata.jpeg" alt="" srcset=""></a>
+                <h4>Pula Pirata</h4>
+                <div class="classificacao">
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                </div>
+                <p>E$ 85000</p>
+            </div>
+            <!--FIM ITEM PRODUTO-->
+           
+        </div>
+        <!--FIM LINHA DO PRODUTO-->
+        <h2 class="titulo">Novos Prêmio</h2>
+
+        <!--INICIO LINHA DO PRODUTO-->
+        <div class="linha">
+
+            <!--INICIO ITEM PRODUTO-->
+            <div class="col-4">
+                <a href="produtos/ver-produto5.html">
+                <img src="/assets/images/produtos/biscoito.jpeg" alt="" srcset=""></a>
+                <h4>Biscoito Club Social</h4>
+                <div class="classificacao">
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                </div>
+                <p>E$ 15000</p>
+            </div>
+            <!--FIM ITEM PRODUTO-->
+            <!--INICIO ITEM PRODUTO-->
+            <div class="col-4">
+                <a href="produtos/ver-produto6.html">
+                <img src="/assets/images/produtos/paçoca.jpeg" alt="" srcset=""></a>
+                <h4>Paçoca</h4>
+                <div class="classificacao">
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                </div>
+                <p>E$ 20000</p>
+            </div>
+            <!--FIM ITEM PRODUTO-->
+            <!--INICIO ITEM PRODUTO-->
+            <div class="col-4">
+                <a href="produtos/ver-produto7.html">
+                <img src="/assets/images/produtos/jujuba.jpeg" alt="" srcset=""> </a>
+                <h4>Jujuba</h4>
+                <div class="classificacao">
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                </div>
+                <p>E$ 25000</p>
+            </div>
+            <!--FIM ITEM PRODUTO-->
+             <!--INICIO ITEM PRODUTO-->
+             <div class="col-4">
+                <a href="produtos/ver-produto8.html">
+                <img src="/assets/images/produtos/pastilha.jpeg" alt="" srcset=""></a>
+                <h4>Pastilha</h4>
+                <div class="classificacao">
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                </div>
+                <p>E$ 30000</p>
+            </div>
+            <!--FIM ITEM PRODUTO-->
+            <!--INICIO ITEM PRODUTO-->
+            <div class="col-4">
+                <a href="produtos/ver-produto9.html">
+                <img src="/assets/images/produtos/pirulito.jpeg" alt="" srcset=""></a>
+                <h4>Pirulito</h4>
+                <div class="classificacao">
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                </div>
+                <p>E$ 35000</p>
+            </div>
+            <!--FIM ITEM PRODUTO-->
+            <!--INICIO ITEM PRODUTO-->
+            <div class="col-4">
+                <a href="produtos/ver-produto10.html">
+                <img src="/assets/images/produtos/bombom.jpeg" alt="" srcset=""></a>
+                <h4>Bombom</h4>
+                <div class="classificacao">
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                </div>
+                <p>E$ 40000</p>
+            </div>
+            <!--FIM ITEM PRODUTO-->
+            <!--INICIO ITEM PRODUTO-->
+            <div class="col-4">
+                <a href="produtos/ver-produto11.html">
+                <img src="/assets/images/produtos/biscoitoRecheado.jpeg" alt="" srcset=""></a>
+                <h4>Biscoito Recheado</h4>
+                <div class="classificacao">
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                </div>
+                <p>E$ 50000</p>
+            </div>
+            <!--FIM ITEM PRODUTO-->
+             <!--INICIO ITEM PRODUTO-->
+             <div class="col-4">
+                <a href="produtos/ver-produto12.html">
+                <img src="/assets/images/produtos/bisExtra.jpeg" alt="" srcset=""></a>
+                <h4>Bis Extra</h4>
+                <div class="classificacao">
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                </div>
+                <p>E$ 60000</p>
+            </div>
+            <!--FIM ITEM PRODUTO-->
+            <!--INICIO ITEM PRODUTO-->
+            <div class="col-4">
+                <a href="produtos/ver-produto13.html">
+                <img src="/assets/images/produtos/bolinhaspinner.jpeg" alt="" srcset=""></a>
+                <h4>Bolinha Spinner</h4>
+                <div class="classificacao">
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                </div>
+                <p>E$ 50000</p>
+            </div>
+            <!--FIM ITEM PRODUTO-->
+
+            <!--INICIO ITEM PRODUTO-->
+            <div class="col-4">
+                <a href="produtos/ver-produto14.html">
+                <img src="/assets/images/produtos/flauta.jpeg" alt="" srcset=""></a>
+                <h4>Flauta</h4>
+                <div class="classificacao">
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                </div>
+                <p>E$ 60000</p>
+            </div>
+            <!--FIM ITEM PRODUTO-->
+            <!--INICIO ITEM PRODUTO-->
+            <div class="col-4">
+                <a href="produtos/ver-produto15.html">
+                <img src="/assets/images/produtos/gol.jpeg" alt="" srcset=""></a>
+                <h4>Futebol de Botão</h4>
+                <div class="classificacao">
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                </div>
+                <p>E$ 50000</p>
+            </div>
+            <!--FIM ITEM PRODUTO-->
+            <!--INICIO ITEM PRODUTO-->
+            <div class="col-4"> 
+                <a href="produtos/ver-produto16.html">
+                <img src="/assets/images/produtos/blocoMontar.jpeg" alt="" srcset=""></a>
+                <h4>Bloco de Montar</h4>
+                <div class="classificacao">
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                </div>
+                <p>E$ 45000</p>
+            </div>
+            <!--FIM ITEM PRODUTO-->
+            <!--INICIO ITEM PRODUTO-->
+            <div class="col-4">
+                <a href="produtos/ver-produto17.html">
+                <img src="/assets/images/produtos/cobra.jpeg" alt="" srcset=""></a>
+                <h4>Cobra</h4>
+                <div class="classificacao">
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                </div>
+                <p>E$ 40000</p>
+            </div>
+            <!--FIM ITEM PRODUTO-->
+            <!--INICIO ITEM PRODUTO-->
+            <div class="col-4">
+                <a href="produtos/ver-produto18.html">
+                <img src="/assets/images/produtos/bolhaDeSabao.jpeg" alt="" srcset=""></a>
+                <h4>Bolha de Sabão</h4>
+                <div class="classificacao">
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                </div>
+                <p>E$ 35000</p>
+            </div>
+            <!--FIM ITEM PRODUTO-->
+            <!--INICIO ITEM PRODUTO-->
+            <div class="col-4">
+                <a href="produtos/ver-produto19.html">
+                <img src="/assets/images/produtos/pegaVareta.jpeg" alt="" srcset=""></a>
+                <h4>Pega Vareta</h4>
+                <div class="classificacao">
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                </div>
+                <p>E$ 25000</p>
+            </div>
+            <!--FIM ITEM PRODUTO-->
+            <!--INICIO ITEM PRODUTO-->
+            <div class="col-4">
+                <a href="produtos/ver-produto20.html">
+                <img src="/assets/images/produtos/massa de modelar.jpeg" alt="" srcset=""></a>
+                <h4>Massa de Modelar</h4>
+                <div class="classificacao">
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                </div>
+                <p>E$ 20000</p>
+            </div>
+            <!--FIM ITEM PRODUTO-->
+            <!--INICIO ITEM PRODUTO-->
+            <div class="col-4">
+                <a href="produtos/ver-produto21.html">
+                <img src="/assets/images/produtos/molaMaluca.jpeg" alt="" srcset=""></a>
+                <h4>Mola Maluca</h4>
+                <div class="classificacao">
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                </div>
+                <p>E$ 17000</p>
+            </div>
+            <!--FIM ITEM PRODUTO-->
+            <!--INICIO ITEM PRODUTO-->
+            <div class="col-4">
+                <a href="produtos/ver-produto22.html">
+                <img src="/assets/images/produtos/giz de cera.jpeg" alt="" srcset=""></a>
+                <h4>Giz de Cera</h4>
+                <div class="classificacao">
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                </div>
+                <p>E$ 15000</p>
+            </div>
+            <!--FIM ITEM PRODUTO-->
+            <!--INICIO ITEM PRODUTO-->
+            <div class="col-4"> 
+                <a href="produtos/ver-produto23.html">
+                <img src="/assets/images/produtos/ioio.jpeg" alt="" srcset=""></a>
+                <h4>Iôiô</h4>
+                <div class="classificacao">
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                </div>
+                <p>E$ 12000</p>
+            </div>
+            <!--FIM ITEM PRODUTO-->
+            <!--INICIO ITEM PRODUTO-->
+            <div class="col-4">
+                <a href="produtos/ver-produto24.html">
+                <img src="/assets/images/produtos/carrinho.jpeg" alt="" srcset=""></a>
+                <h4>Carrinho</h4>
+                <div class="classificacao">
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                </div>
+                <p>E$ 8000</p>
+            </div>
+            <!--FIM ITEM PRODUTO-->
+            <!--INICIO ITEM PRODUTO-->
+            <div class="col-4">
+                <a href="produtos/ver-produto25.html">
+                <img src="/assets/images/produtos/peao.jpeg" alt="" srcset=""></a>
+                <h4>Peão</h4>
+                <div class="classificacao">
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                </div>
+                <p>E$ 7000</p>
+            </div>
+            <!--FIM ITEM PRODUTO-->
+            <!--INICIO ITEM PRODUTO-->
+            <div class="col-4">
+                <a href="produtos/ver-produto26.html">
+                <img src="/assets/images/produtos/dentadura.jpeg" alt="" srcset=""></a>
+                <h4>Dentadura</h4>
+                <div class="classificacao">
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                </div>
+                <p>E$ 4000</p>
+            </div>
+            <!--FIM ITEM PRODUTO-->
+            <!--INICIO ITEM PRODUTO-->
+            <div class="col-4">
+                <a href="produtos/ver-produto27.html">
+                <img src="/assets/images/produtos/caneta.jpeg" alt="" srcset=""></a>
+                <h4>Caneta</h4>
+                <div class="classificacao">
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                </div>
+                <p>E$ 3000</p>
+            </div>
+            <!--FIM ITEM PRODUTO-->
+            
+
+
+        </div>
+        <!--FIM LINHA DO PRODUTO-->
+    </div>
+    </div>
+    <!--FIM PRODUTOS-->
+    <!--INICIO OFERTAS DESTAQUE-->
+    <div class="ofertas">
+        <div class="corpo-categorias">
+            <div class="linha">
+                <div class="col-2">
+                    <a href="produtos/ver-produto28.html">
+<img src="/assets/images/produtos/telamagica.jpeg" alt="" class="oferta-img"></a>
+                </div>
+                <div class="col-2">
+                    <p>Prêmios Exclusivos da Loja Edukhan</p>
+                    <h1>Tela Mágica</h1>
+                    <small>Atualize sua Pontuação com o Professor Para garantir que sua pontuação está sempre correta, atualize-a no final de cada aula com seu professor. Mostre sua pontuação diretamente da plataforma Khan Academy e nós faremos o resto. Lembre-se, essa pontuação será usada como moeda para suas compras na loja!</small>
+                    <br><br><a href="ver-produto28.html" class="btn">Comprar Agora &#8594;
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--FIM OFERTAS DESTAQUE-->
