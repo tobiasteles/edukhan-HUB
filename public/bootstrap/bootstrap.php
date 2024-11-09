@@ -7,6 +7,7 @@ use App\Classes\Parameters;
 $template = new Template;
 $twig = $template->init();
 
+$twig->addFunction($site_url);
 
 // Chamando controller
 
