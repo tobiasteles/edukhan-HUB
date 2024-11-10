@@ -3,7 +3,6 @@
 namespace App\Models\Database\TypeDatabase;
 
 use App\Interfaces\InterfaceTypeDatabase;
-
 use App\Models\Database\ConnectDatabase\Connection;
 use App\Models\Database\ConnectDatabase\ConnectPdoDatabase;
 
