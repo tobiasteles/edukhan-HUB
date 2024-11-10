@@ -17,8 +17,7 @@ $calledController = $callController->controller();
 
 $controller = new $calledController();
 $controller->setTwig($twig);
-
-
+// Algo assim no bootstrap.php
 
 // Chamando method
 
